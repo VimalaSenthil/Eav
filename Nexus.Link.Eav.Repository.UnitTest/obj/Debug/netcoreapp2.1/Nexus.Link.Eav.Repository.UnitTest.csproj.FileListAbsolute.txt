@@ -1,0 +1,17 @@
+C:\Users\VimalaSenthilKumar\Git\Internal\Nexus.Link.Eav.Repository\Nexus.Link.Eav.Repository.UnitTest\obj\Debug\netcoreapp2.1\Nexus.Link.Eav.Repository.UnitTest.csprojAssemblyReference.cache
+C:\Users\VimalaSenthilKumar\Git\Internal\Nexus.Link.Eav.Repository\Nexus.Link.Eav.Repository.UnitTest\obj\Debug\netcoreapp2.1\Nexus.Link.Eav.Repository.UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\VimalaSenthilKumar\Git\Internal\Nexus.Link.Eav.Repository\Nexus.Link.Eav.Repository.UnitTest\obj\Debug\netcoreapp2.1\Nexus.Link.Eav.Repository.UnitTest.AssemblyInfoInputs.cache
+C:\Users\VimalaSenthilKumar\Git\Internal\Nexus.Link.Eav.Repository\Nexus.Link.Eav.Repository.UnitTest\obj\Debug\netcoreapp2.1\Nexus.Link.Eav.Repository.UnitTest.AssemblyInfo.cs
+C:\Users\VimalaSenthilKumar\Git\Internal\Nexus.Link.Eav.Repository\Nexus.Link.Eav.Repository.UnitTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\VimalaSenthilKumar\Git\Internal\Nexus.Link.Eav.Repository\Nexus.Link.Eav.Repository.UnitTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\VimalaSenthilKumar\Git\Internal\Nexus.Link.Eav.Repository\Nexus.Link.Eav.Repository.UnitTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\VimalaSenthilKumar\Git\Internal\Nexus.Link.Eav.Repository\Nexus.Link.Eav.Repository.UnitTest\bin\Debug\netcoreapp2.1\Nexus.Link.Eav.Repository.UnitTest.deps.json
+C:\Users\VimalaSenthilKumar\Git\Internal\Nexus.Link.Eav.Repository\Nexus.Link.Eav.Repository.UnitTest\bin\Debug\netcoreapp2.1\Nexus.Link.Eav.Repository.UnitTest.runtimeconfig.json
+C:\Users\VimalaSenthilKumar\Git\Internal\Nexus.Link.Eav.Repository\Nexus.Link.Eav.Repository.UnitTest\bin\Debug\netcoreapp2.1\Nexus.Link.Eav.Repository.UnitTest.runtimeconfig.dev.json
+C:\Users\VimalaSenthilKumar\Git\Internal\Nexus.Link.Eav.Repository\Nexus.Link.Eav.Repository.UnitTest\bin\Debug\netcoreapp2.1\Nexus.Link.Eav.Repository.UnitTest.dll
+C:\Users\VimalaSenthilKumar\Git\Internal\Nexus.Link.Eav.Repository\Nexus.Link.Eav.Repository.UnitTest\bin\Debug\netcoreapp2.1\Nexus.Link.Eav.Repository.UnitTest.pdb
+C:\Users\VimalaSenthilKumar\Git\Internal\Nexus.Link.Eav.Repository\Nexus.Link.Eav.Repository.UnitTest\bin\Debug\netcoreapp2.1\Nexus.Link.Eav.Repository.dll
+C:\Users\VimalaSenthilKumar\Git\Internal\Nexus.Link.Eav.Repository\Nexus.Link.Eav.Repository.UnitTest\bin\Debug\netcoreapp2.1\Nexus.Link.Eav.Repository.pdb
+C:\Users\VimalaSenthilKumar\Git\Internal\Nexus.Link.Eav.Repository\Nexus.Link.Eav.Repository.UnitTest\obj\Debug\netcoreapp2.1\Nexus.Link.Eav.Repository.UnitTest.csproj.CopyComplete
+C:\Users\VimalaSenthilKumar\Git\Internal\Nexus.Link.Eav.Repository\Nexus.Link.Eav.Repository.UnitTest\obj\Debug\netcoreapp2.1\Nexus.Link.Eav.Repository.UnitTest.dll
+C:\Users\VimalaSenthilKumar\Git\Internal\Nexus.Link.Eav.Repository\Nexus.Link.Eav.Repository.UnitTest\obj\Debug\netcoreapp2.1\Nexus.Link.Eav.Repository.UnitTest.pdb
